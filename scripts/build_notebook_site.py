@@ -13,9 +13,6 @@ def build():
     nbformat.validate(notebook)
     # Add page navigation only to the rendered copy, leaving the notebook intact.
     notebook.cells.insert(0, nbformat.v4.new_markdown_cell(
-        '# Fieldnotes · Corpus Studio\n\n'
-        'A notebook for exploring linguistic annotations, searching a corpus, '
-        'and building a contextual lexicon.\n\n'
         '[Download this notebook](test.ipynb) · '
         '[View the project on GitHub](https://github.com/marinertt/documenting_linguistics)\n\n'
         '**Notebook view:** this page shows code and saved outputs. '
