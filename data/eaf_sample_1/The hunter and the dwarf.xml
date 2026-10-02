@@ -1,0 +1,1087 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<document xsi:noNamespaceSchemaLocation="file:FlexInterlinear.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <interlinear-text guid="56246e8c-fab3-4146-a77c-252fb0bf4c70">
+    <item type="title" lang="en">The hunter and the dwarf</item>
+    <item type="date-created" lang="en">2020-03-20 18:51:34.882</item>
+    <item type="date-modified" lang="en">2020-03-27 17:18:14.180</item>
+    <paragraphs>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhusibu</item><item type="gls" lang="en">uma vez</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩyuro</item><item type="gls" lang="en">be</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhugʉ</item><item type="gls" lang="en">um</item><item type="pos" lang="en">det</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">waimʉ̃rã</item><item type="gls" lang="en">fish</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wehegʉ</item><item type="gls" lang="en">caçar</item><item type="pos" lang="en">vi</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'apʉ</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">1</item><item type="gls" lang="en">
+              <run lang="en">O</run>
+              <run lang="en">nce upon a time, a man went hunting</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="punct" lang="des-fonipa-x-etic">...</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yoaro</item><item type="gls" lang="en">longe</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">2</item><item type="gls" lang="en">He went far... he went</item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">waimʉ̃rã</item><item type="gls" lang="en">fish</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">kuru</item><item type="gls" lang="en">grupo</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhu</item><item type="gls" lang="en">um</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">kuru</item><item type="gls" lang="en">grupo</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">gahkiare</item><item type="gls" lang="en">macacos</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">bohkapʉ</item><item type="gls" lang="en">encontrou</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">3</item><item type="gls" lang="en">
+              <run lang="en">H</run>
+              <run lang="en">e found a bunch of animals, a bunch of monkeys.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">bohka</item><item type="gls" lang="en">encontrou</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">purihã</item><item type="gls" lang="en">soprou</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">4</item><item type="gls" lang="en">
+              <run lang="en">(</run>
+              <run lang="en">The hunter) found him and shoot him with the blowpipe. </run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩũmãhã</item><item type="gls" lang="en">carregou</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'apʉ</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">5</item><item type="gls" lang="en">
+              <run lang="en">(</run>
+              <run lang="en">The hunter) put him on his back and went away.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãmẽrota</item><item type="gls" lang="en">um pouco</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhugʉ</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhsʉ̃</item><item type="gls" lang="en">person</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ʉ̃mãbigã</item><item type="gls" lang="en">baixinho</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">bohkapʉ</item><item type="gls" lang="en">encontrou</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩpẽgã</item><item type="gls" lang="en">deste tamanhinho</item><item type="pos" lang="en">n</item></word>
+            </words><item type="segnum" lang="en">6</item><item type="gls" lang="en">
+              <run lang="en">H</run>
+              <run lang="en">e went a little bit, he went and found a little man, little like this</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩpẽgã</item><item type="gls" lang="en">deste tamanhinho</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">7</item><item type="gls" lang="en">
+              <run lang="en">(He) </run>
+              <run lang="en">was this little.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">pagomʉ̃</item><item type="gls" lang="en">cousin</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+            </words><item type="segnum" lang="en">8</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Cousinǃ" the dwarf said to him.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">dapi</item><item type="gls" lang="en">what</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">kuri</item><item type="gls" lang="en">INTERR</item><item type="pos" lang="en">INTER</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">iri</item><item type="gls" lang="en">do</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">9</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">What are you doing?" the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">waimʉ̃rã</item><item type="gls" lang="en">fish</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wẽhẽkuri</item><item type="gls" lang="en">caçando</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ia</item><item type="gls" lang="en">AUX</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pagomʉ̃</item><item type="gls" lang="en">cousin</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">10</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">I am hunting, my cousin," the hunter said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ka</item><item type="gls" lang="en">e você</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">dapiri</item><item type="gls" lang="en">o que</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">11</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">How about you?" said the hunter.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õõ</item><item type="gls" lang="en">here</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩgĩhãã</item><item type="gls" lang="en">estou em pé</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">12</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">I am standing here," the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhu</item><item type="gls" lang="en">um</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">guburore</item><item type="gls" lang="en">perna</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩmũhũnĩhĩ</item><item type="gls" lang="en">estava em pé com uma perna levantada</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩgĩpʉ</item><item type="gls" lang="en">estava em pé</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩmũhũnĩhĩ</item><item type="gls" lang="en">estava em pé com uma perna levantada</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">13</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he dwarf was standing with one leg up, like this (narrator holds his leg)</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">nõõ</item><item type="gls" lang="en">onde</item><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ʉkuri</item><item type="gls" lang="en">indo</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">14</item><item type="gls" lang="en">
+              <run lang="en">"W</run>
+              <run lang="en">here are you going?" the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õõ</item><item type="gls" lang="en">here</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ʉra</item><item type="gls" lang="en">estou indo</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+            </words><item type="segnum" lang="en">15</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">I am going here," the hunter told him.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õre</item><item type="gls" lang="en">aqui</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ʉ</item><item type="gls" lang="en">indo</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õrẽ</item><item type="gls" lang="en">here</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'kʉ</item><item type="gls" lang="en">se for</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">aradero</item><item type="gls" lang="en">vieste</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eheaʉka</item><item type="gls" lang="en">chegará</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">16</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">If you go here, you will arrive where you came from."</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ahau</item><item type="gls" lang="en">okay</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+            </words><item type="segnum" lang="en">17</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Okay," said the hunter to him</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õ</item><item type="gls" lang="en">aqui</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ke</item><item type="gls" lang="en">rest</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mũhũrõ</item><item type="gls" lang="en">levanto</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">i</item><item type="gls" lang="en">esta</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">guburore</item><item type="gls" lang="en">perna</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩmũhũ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mõhõtõrẽ</item><item type="gls" lang="en">com a mão</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">18</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Go here where I (am pointing) with this raised leg," (the dwarf) raised a leg and did this (pointed) with his hand.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãmẽrõ</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'mã'ã</item><item type="gls" lang="en">ia</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ikʉta</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wãumm</item><item type="gls" lang="en">vrumm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">iha</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nʉ̃gãpʉ</item><item type="gls" lang="en">ficou parado</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">19</item><item type="gls" lang="en">
+              <run lang="en">W</run>
+              <run lang="en">hen the hunter went, the dwarf did "vrummǃ" and the hunter stopped.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">erogãre</item><item type="gls" lang="en">bem ali</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">erogãta</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">soronĩhãpʉ</item><item type="gls" lang="en">rodava</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">waimʉ̃rã</item><item type="gls" lang="en">fish</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wẽhẽri</item><item type="gls" lang="en">caçador</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhsʉ̃</item><item type="gls" lang="en">person</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+            </words><item type="segnum" lang="en">20</item><item type="gls" lang="en">
+              <run lang="en">R</run>
+              <run lang="en">ight there the dwarf spun, spun, right there (by the) hunter.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩgĩadi</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yãʉ̃nĩpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">21</item><item type="gls" lang="en">The dwarf who was standing like this, was looking towards here.</item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhupʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">det</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">guburo</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩmũhũ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩgĩpʉ</item><item type="gls" lang="en">estava em pé</item></word>
+            </words><item type="segnum" lang="en">22</item><item type="gls" lang="en">
+              <run lang="en">w</run>
+              <run lang="en">ith one leg raise</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">porota</item><item type="gls" lang="en" /><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ehea</item><item type="gls" lang="en">to arrive</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eheapʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">waimʉ̃rã</item><item type="gls" lang="en">fish</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wẽhẽrĩ</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhsʉ̃</item><item type="gls" lang="en">person</item><item type="pos" lang="en">n</item></word>
+            </words><item type="segnum" lang="en">23</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he hunter approached the dwarf again.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õta</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'buba</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pagomʉ̃</item><item type="gls" lang="en">cousin</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉre</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">dapi</item><item type="gls" lang="en">what</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">irapiri</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">24</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he hunter (was) saying "I have been here." And said, "cousin, why do you do this to me?"</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õ</item><item type="gls" lang="en">aqui</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ke</item><item type="gls" lang="en">rest</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrãbu</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">25</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">I told you 'go here'" the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õ'õ</item><item type="gls" lang="en">here</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sĩpuro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">diaye</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ke</item><item type="gls" lang="en">rest</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrãbu</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+            </words><item type="segnum" lang="en">26</item><item type="gls" lang="en">
+              <run lang="en">"I</run>
+              <run lang="en"> told you 'go here, where I am pointing to'"</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">dapi</item><item type="gls" lang="en">what</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eheari</item><item type="gls" lang="en">arrived</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+            </words><item type="segnum" lang="en">27</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Why did you come here again?" said the dwarf.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhugʉ</item><item type="gls" lang="en">um</item><item type="pos" lang="en">det</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yuhupʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">det</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">guburo</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩnĩhĩ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩmũhũ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩhĩ</item><item type="gls" lang="en">to stand</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩgĩ</item><item type="gls" lang="en">to stand</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">28</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he dwarf was standing with one of his leg up.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">erotamẽrãre</item><item type="gls" lang="en" /></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õ're</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ke</item><item type="gls" lang="en">rest</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">29</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Then go this way again," the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'pʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãmẽrõ</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'mãrõta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+            </words><item type="segnum" lang="en">30</item><item type="gls" lang="en">The hunter went again; as he went for a little bit again... </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">wũ</item><item type="gls" lang="en">vrumm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ihanũgã</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ihanũgãpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">31</item><item type="gls" lang="en">
+              <run lang="en">V</run>
+              <run lang="en">rumǃ The dwarf spun again, and stoppedǃ</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eropi</item><item type="gls" lang="en" /><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ehanʉ̃gãrõta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">32</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">hus the dwarf did that and stopped.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sĩpuropʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">diaye</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">aripʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">waimʉ̃rã</item><item type="gls" lang="en">fish</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wẽhẽrĩ</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhsʉ̃</item><item type="gls" lang="en">person</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+            </words><item type="segnum" lang="en">33</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he hunter came right here, to where the dwarf was pointing. </run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">wihanũgã</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pagomʉ̃</item><item type="gls" lang="en">cousin</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">porota</item><item type="gls" lang="en" /><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eheatohaka</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">34</item><item type="gls" lang="en">Arriving there, the hunter said: "Cousin, I arrive near you againǃ"</item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">dapi</item><item type="gls" lang="en">what</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ're</item><item type="gls" lang="en">me</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">erapiri</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">35</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Why do you do this to me?" the hunter said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩbea</item><item type="gls" lang="en">be</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃sã</item><item type="gls" lang="en">he also</item><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sĩpʉro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">diaye</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nẽ</item><item type="gls" lang="en">huh</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'bea</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+            </words><item type="segnum" lang="en">36</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">It's not that" the dwarf also said. "You are not going where I am pointing to," the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">eropi</item><item type="gls" lang="en" /><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">porota</item><item type="gls" lang="en" /><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ehea</item><item type="gls" lang="en">to arrive</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">37</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">That is why you go like that, and arrive near me," the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õrẽ</item><item type="gls" lang="en">here</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'yãta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃rẽ</item><item type="gls" lang="en">to him</item><item type="pos" lang="en">post</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+            </words><item type="segnum" lang="en">38</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Try to go through here again," the dwarf said to him again.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õrẽ</item><item type="gls" lang="en">here</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õrẽ</item><item type="gls" lang="en">here</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wum</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ihanʉ̃gã</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'pʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sĩpuhanʉ̃gã</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">39</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Through here again," vrumǃ The dwarf (spun) and stood on his foot pointing.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'pʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">te</item><item type="gls" lang="en">until</item><item type="pos" lang="en">post</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'dea</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãta</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eheatahapʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">40</item><item type="gls" lang="en">
+              <run lang="en">A</run>
+              <run lang="en">gain, the hunter went until he arrived in the trail he had (already) gone.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ehea</item><item type="gls" lang="en">to arrive</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">41</item><item type="gls" lang="en">
+              <run lang="en">h</run>
+              <run lang="en">mm... the hunter arrived...</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ahau</item><item type="gls" lang="en">okay</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'pʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">erota</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">42</item><item type="gls" lang="en">
+              <run lang="en">O</run>
+              <run lang="en">kay, the hunter went there again... he went...</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">erogãta</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sorokurihãpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">waimʉ̃rã</item><item type="gls" lang="en">fish</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wẽhẽrĩ</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhsʉ̃</item><item type="gls" lang="en">person</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+            </words><item type="segnum" lang="en">43</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">hen the hunter walked in circles around there. </run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">erogãta</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ehea</item><item type="gls" lang="en">to arrive</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">44</item><item type="gls" lang="en">
+              <run lang="en">H</run>
+              <run lang="en">e arrived there (at the same place).</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ahau</item><item type="gls" lang="en">okay</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩ</item><item type="gls" lang="en">this</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉre</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">biraʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ikumĩ</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pagomʉ̃</item><item type="gls" lang="en">cousin</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉre</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">biragorahãʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">iri</item><item type="gls" lang="en">do</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">45</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he hunter though, "he is playing with meǃ" "Cousin, why are you playing with me?" he said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">umm</item><item type="gls" lang="en">hmm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">birabea</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sĩpuro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">diaye</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'abea</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">46</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">I am not playing, you are the one who is not going where I am pointing to" the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">erogãta</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">porogãta</item><item type="gls" lang="en" /><item type="pos" lang="en">adj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sorokuri</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ihã</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">47</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Over there, very close, I am spinning." the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">hmm</item><item type="gls" lang="en">hmm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yãdihuboadi</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yãpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">peyo</item><item type="gls" lang="en">tortoise</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">oyanipʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">erore</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+            </words><item type="segnum" lang="en">48</item><item type="gls" lang="en">
+              <run lang="en">S</run>
+              <run lang="en">o the hunter looked to the ground and saw a tortoise laying down there. </run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">peyo</item><item type="gls" lang="en">tortoise</item><item type="pos" lang="en">n</item></word>
+            </words><item type="segnum" lang="en">49</item><item type="gls" lang="en">a tortoise</item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãã</item><item type="gls" lang="en">yes</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'akʉta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhĩmẽrẽa</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃rĩpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+            </words><item type="segnum" lang="en">50</item><item type="gls" lang="en">
+              <run lang="en">Y</run>
+              <run lang="en">es, when the hunter went, the tortoise spun.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">gahiro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'kʉta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhĩmẽrẽapʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">51</item><item type="gls" lang="en">
+              <run lang="en">W</run>
+              <run lang="en">hen the hunter went to the other direction, the tortoise spun.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">erota</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mẽrãre</item><item type="gls" lang="en" /><item type="pos" lang="en">post</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õre</item><item type="gls" lang="en">aqui</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ke</item><item type="gls" lang="en">rest</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+            </words><item type="segnum" lang="en">52</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Then go towards here," the dwarf said to the hunter.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ero</item><item type="gls" lang="en">there</item><item type="pos" lang="en">det</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'adea</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãta</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eropã</item><item type="gls" lang="en">thus</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">soronĩkʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">53</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">here he walked around the same path he had gone.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">kãdʉhka</item><item type="gls" lang="en">tucumã</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">kãdʉhka</item><item type="gls" lang="en">tucumã</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wãtĩ</item><item type="gls" lang="en">devil</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wãĩkʉpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eropã</item><item type="gls" lang="en">thus</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">biragʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">54</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">his one that was playing with the hunter was the Tukũ Devil. He was called the Tukũ Devil.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'kʉta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wũũ</item><item type="gls" lang="en">vrumm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eheanʉ̃gãmʉ̃rĩpʉta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">55</item><item type="gls" lang="en">
+              <run lang="en">W</run>
+              <run lang="en">hen the hunter walked... vrumǃ The dwarf spun.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">gahirogã</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sorokʉ̃ta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wũũ</item><item type="gls" lang="en">vrumm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+            </words><item type="segnum" lang="en">56</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he hunter walked to another direction... vrumǃ The dwarf turned around.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">eropi</item><item type="gls" lang="en" /><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pagomʉ̃</item><item type="gls" lang="en">cousin</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">obu</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">imãhãka</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õ</item><item type="gls" lang="en">aqui</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrã</item><item type="gls" lang="en">be</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'aro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+            </words><item type="segnum" lang="en">57</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">hen the dwarf said to the hunter: "Cousin, I was kidding with you. The place you want to go to is here."</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">mʉ̃'ʉ̃</item><item type="gls" lang="en">2SG</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">aradea</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mã</item><item type="gls" lang="en">ready</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õ</item><item type="gls" lang="en">aqui</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrã</item><item type="gls" lang="en">be</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">58</item><item type="gls" lang="en">
+              <run lang="en">"T</run>
+              <run lang="en">he path you came from is this way," the dwarf said.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sĩpuro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">diaye</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ake</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nẽẽ</item><item type="gls" lang="en">nothing</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yãdihiubita</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'ake</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+            </words><item type="segnum" lang="en">59</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he dwarf said: "Go in the direction I am pointing to and don't look down."</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yʉ'ʉ</item><item type="gls" lang="en">1sg</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">poropʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nẽẽ</item><item type="gls" lang="en">nothing</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">yãdihiubita</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+            </words><item type="segnum" lang="en">60</item><item type="gls" lang="en">
+              <run lang="en">A</run>
+              <run lang="en">nd said to the hunter: "Don't look back at me."</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ahau</item><item type="gls" lang="en">okay</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'apʉ</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'a</item><item type="gls" lang="en">foi</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">te</item><item type="gls" lang="en">until</item><item type="pos" lang="en">post</item></word>
+            </words><item type="segnum" lang="en">61</item><item type="gls" lang="en">
+              <run lang="en">"</run>
+              <run lang="en">Okay!" Said the hunter, and he went... went until...</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãmẽrogãta</item><item type="gls" lang="en" /><item type="pos" lang="en">adj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩrĩyuro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">62</item><item type="gls" lang="en">
+              <run lang="en">A</run>
+              <run lang="en">s I said, it was nearby.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">aradea</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mã</item><item type="gls" lang="en">ready</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mã</item><item type="gls" lang="en">ready</item><item type="pos" lang="en">prt</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">poemã</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">õ</item><item type="gls" lang="en">aqui</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nõhõ</item><item type="gls" lang="en">UNCERTAINTY</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩkũ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">63</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he way the hunter came; the path for his garden it was like this... </run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">erogãreta</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sorokurihãpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+            </words><item type="segnum" lang="en">64</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">hen the dwarf spun right over there.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ũũ</item><item type="gls" lang="en">hmm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">eropã</item><item type="gls" lang="en">thus</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sorobirahũ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+            </words><item type="segnum" lang="en">65</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he dwarf was spinning.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ũũ</item><item type="gls" lang="en">hmm</item><item type="pos" lang="en">interj</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'kʉ̃ta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">gahiro</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wa'kʉ̃ta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">peyo</item><item type="gls" lang="en">tortoise</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃re</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">mãhĩmẽrẽamʉ̃rĩpʉta</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+            </words><item type="segnum" lang="en">66</item><item type="gls" lang="en">
+              <run lang="en">A</run>
+              <run lang="en">s the hunter walked, the tortoise turned the dwarf around to different directions.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sorokʉta</item><item type="gls" lang="en" /></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pʉrʉpʉre</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+            </words><item type="segnum" lang="en">67</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">he dwarf turned around again, on the hunter's back.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">õpã</item><item type="gls" lang="en">assim</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">sorokurihãpʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">peyopʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">pare</item><item type="gls" lang="en">then</item><item type="pos" lang="en">prt</item></word>
+            </words><item type="segnum" lang="en">68</item><item type="gls" lang="en">
+              <run lang="en">S</run>
+              <run lang="en">o it was the tortoise (not the dwarf) that spun.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wehka</item><item type="gls" lang="en">on top</item><item type="pos" lang="en">prep</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩgĩnĩhĩ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">guburore</item><item type="gls" lang="en">perna</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãĩpeonĩhĩ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">gahi</item><item type="gls" lang="en">other</item><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">gubure</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ipʉ</item><item type="gls" lang="en">fez</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">daha</item><item type="gls" lang="en">again</item><item type="pos" lang="en">adv</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">inĩhĩ</item><item type="gls" lang="en" /><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">nĩgĩpʉ</item><item type="gls" lang="en">estava em pé</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ</item><item type="gls" lang="en" /><item type="pos" lang="en">pro-form</item></word>
+            </words><item type="segnum" lang="en">69</item><item type="gls" lang="en">
+              <run lang="en">H</run>
+              <run lang="en">e was standing on top of the tortoise with his leg crossed and his foot to the other direction.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">kãduhka</item><item type="gls" lang="en" /><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">wãhtĩ</item><item type="gls" lang="en">devil</item><item type="pos" lang="en">n</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrĩpʉ</item><item type="gls" lang="en">said</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ĩgʉ̃</item><item type="gls" lang="en">3SG.M</item><item type="pos" lang="en">pro</item></word>
+            </words><item type="segnum" lang="en">70</item><item type="gls" lang="en">
+              <run lang="en">H</run>
+              <run lang="en">e was the Tukũ Devil.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+      <paragraph>
+        <phrases>
+          <word><words>
+              <word><item type="txt" lang="des-fonipa-x-etic">iripẽta</item><item type="gls" lang="en" /><item type="pos" lang="en">dem</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ãrã</item><item type="gls" lang="en">be</item><item type="pos" lang="en">v</item></word>
+              <word><item type="txt" lang="des-fonipa-x-etic">ũũ</item><item type="gls" lang="en">hmm</item><item type="pos" lang="en">interj</item></word>
+            </words><item type="segnum" lang="en">71</item><item type="gls" lang="en">
+              <run lang="en">T</run>
+              <run lang="en">hat's all.</run>
+            </item></word>
+        </phrases>
+      </paragraph>
+    </paragraphs>
+    <languages>
+      <language lang="en" font="Arial" />
+      <language lang="des-fonipa-x-etic" font="Doulos SIL" vernacular="true" />
+    </languages>
+  </interlinear-text>
+</document>

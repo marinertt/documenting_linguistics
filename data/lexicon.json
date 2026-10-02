@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "entries": {
+    "ĩyẽ": {
+      "word": "ĩyẽ",
+      "meaning": "",
+      "notes": "Meaning to be reviewed",
+      "part_of_speech": "",
+      "examples": [
+        {
+          "source_file": "/Users/toddmarino/documenting_linguistics/data/eaf_example.eaf",
+          "annotation_id": "a1",
+          "tier": "JBMassa-des",
+          "transcript": "ĩyẽ mʉ̃ãrẽ werebeo(ra) daha",
+          "translation": "Eu vou contar uma estória para voces.",
+          "start_ms": 2760,
+          "end_ms": 4760,
+          "timing_scope": "transcript segment",
+          "matching_child_intervals": [
+            {
+              "annotation_id": "a49",
+              "text": "ĩyẽ",
+              "start_ms": 2760,
+              "end_ms": 3334
+            }
+          ],
+          "participant": "João Bosco Massa",
+          "media": [
+            {
+              "MEDIA_URL": "file:///C:/Users/lingguest/Desktop/des-20150619-jbrm-narrativas/des-20150619-jbrm-aranha-paidospeixes/des-20150619-jbrm-aranha-paidospeixes.wav",
+              "MIME_TYPE": "audio/x-wav",
+              "RELATIVE_MEDIA_URL": "./des-20150619-jbrm-aranha-paidospeixes.wav"
+            }
+          ],
+          "match_mode": "whole_word"
+        },
+        {
+          "source_file": "/Users/toddmarino/documenting_linguistics/data/eaf_example.eaf",
+          "annotation_id": "a38",
+          "tier": "JBMassa-des",
+          "transcript": "ero burimãrĩ sõ'õ ĩyẽ boreka torewehka nãhsĩwi' yʉripʉ (ĩ)gʉ̃",
+          "translation": "",
+          "start_ms": 168022,
+          "end_ms": 173208,
+          "timing_scope": "transcript segment",
+          "matching_child_intervals": [],
+          "participant": "João Bosco Massa",
+          "media": [
+            {
+              "MEDIA_URL": "file:///C:/Users/lingguest/Desktop/des-20150619-jbrm-narrativas/des-20150619-jbrm-aranha-paidospeixes/des-20150619-jbrm-aranha-paidospeixes.wav",
+              "MIME_TYPE": "audio/x-wav",
+              "RELATIVE_MEDIA_URL": "./des-20150619-jbrm-aranha-paidospeixes.wav"
+            }
+          ],
+          "match_mode": "whole_word"
+        },
+        {
+          "source_file": "/Users/toddmarino/documenting_linguistics/data/eaf_example.eaf",
+          "annotation_id": "a46",
+          "tier": "JBMassa-des",
+          "transcript": "duhari ĩyẽ dohapʉ pare doharipʉ ĩgʉ̃ porogere pare",
+          "translation": "",
+          "start_ms": 198737,
+          "end_ms": 201644,
+          "timing_scope": "transcript segment",
+          "matching_child_intervals": [],
+          "participant": "João Bosco Massa",
+          "media": [
+            {
+              "MEDIA_URL": "file:///C:/Users/lingguest/Desktop/des-20150619-jbrm-narrativas/des-20150619-jbrm-aranha-paidospeixes/des-20150619-jbrm-aranha-paidospeixes.wav",
+              "MIME_TYPE": "audio/x-wav",
+              "RELATIVE_MEDIA_URL": "./des-20150619-jbrm-aranha-paidospeixes.wav"
+            }
+          ],
+          "match_mode": "whole_word"
+        }
+      ]
+    }
+  }
+}

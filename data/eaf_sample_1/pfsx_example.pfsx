@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences version="1.1"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1280,680</Object>
+    </pref>
+    <prefGroup key="TranscriptionTable.ColumnWidth">
+        <pref key="1">
+            <Int>419</Int>
+        </pref>
+        <pref key="2">
+            <Int>418</Int>
+        </pref>
+    </prefGroup>
+    <pref key="LayoutManager.SelectedTabIndex">
+        <Int>7</Int>
+    </pref>
+    <pref key="LayoutManager.MediaAreaWidth">
+        <Int>352</Int>
+    </pref>
+    <pref key="LayoutManager.VisibleMultiTierViewer">
+        <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
+    </pref>
+    <pref key="InterlinearizationMode.LeftTopBottomSplit">
+        <Double>0.16181229773462782</Double>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>JBMassa-des</String>
+    </pref>
+    <pref key="TranscriptionTable.LastActiveRow">
+        <Int>22</Int>
+    </pref>
+    <pref key="SelectionEndTime">
+        <Long>204104</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>250</Int>
+    </pref>
+    <pref key="SignalViewer.ZoomLevel">
+        <Float>154.0</Float>
+    </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="IGTViewerRenderInfo.headerWidth">
+        <Int>100</Int>
+    </pref>
+    <prefGroup key="TranscriptionMode.Temp.TierColors">
+        <pref key="Traducao">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+        <pref key="JBMassa-des">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+    </prefGroup>
+    <prefGroup key="CommentViewer.Columns">
+        <pref key="Sender">
+            <Int>0</Int>
+        </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
+        <pref key="Creation Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Tier">
+            <Int>75</Int>
+        </pref>
+        <pref key="Modification Date">
+            <Int>75</Int>
+        </pref>
+        <pref key="Recipient">
+            <Int>0</Int>
+        </pref>
+        <pref key="Start Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Initials">
+            <Int>75</Int>
+        </pref>
+        <pref key="End Time">
+            <Int>75</Int>
+        </pref>
+        <pref key="Thread">
+            <Int>75</Int>
+        </pref>
+    </prefGroup>
+    <prefGroup key="InterlinearizationMode.LexiconPanelPrefs">
+        <pref key="LexiconPanel.SelectedLexicon">
+            <String>none</String>
+        </pref>
+    </prefGroup>
+    <prefList key="CommentViewer.Columns.Order">
+        <String>Start Time</String>
+        <String>End Time</String>
+        <String>Tier</String>
+        <String>Initials</String>
+        <String>Comment</String>
+        <String>Thread</String>
+        <String>Sender</String>
+        <String>Recipient</String>
+        <String>Creation Date</String>
+        <String>Modification Date</String>
+    </prefList>
+    <pref key="ActiveRecognizerName">
+        <String>BAS - WebMAUS Basic</String>
+    </pref>
+    <pref key="MediaControlVolume">
+        <Float>0.95</Float>
+    </pref>
+    <pref key="FrameLocation">
+        <Object class="java.awt.Point">0,0</Object>
+    </pref>
+    <pref key="TimeLineViewer.ZoomLevel">
+        <Float>154.0</Float>
+    </pref>
+    <prefList key="InterlinearizationConfigurations"/>
+    <prefList key="TranscriptionTable.NonEditableTiers"/>
+    <pref key="LayoutManager.AudioSplitPaneDividerLocation">
+        <Int>23</Int>
+    </pref>
+    <prefList key="TranscriptionTable.ColumnTypes">
+        <String>Text</String>
+        <String>translation</String>
+    </prefList>
+    <pref key="SelectionBeginTime">
+        <Long>203267</Long>
+    </pref>
+    <pref key="TM.SignalViewer.ZoomLevel">
+        <Float>5.0</Float>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="source_audio">
+            <String>///L:/_2015/des_2015/des-20150619-jbrm-narrativas/des-20150619-jbrm-aranha-paidospeixes/des-20150619-jbrm-aranha-paidospeixes.wav</String>
+        </pref>
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+    </prefGroup>
+    <prefGroup key="BAS - WebMAUS Basic">
+        <pref key="LANGUAGE">
+            <String>deu-DE</String>
+        </pref>
+        <prefGroup key="TierUrl"/>
+        <pref key="SignalParamName">
+            <String>SIGNAL</String>
+        </pref>
+        <pref key="ServiceName">
+            <String>runMAUSBasic</String>
+        </pref>
+        <pref key="SignalUrl">
+            <String>C:/Users/lingguest/Desktop/des-20150619-jbrm-narrativas/des-20150619-jbrm-aranha-paidospeixes/des-20150619-jbrm-aranha-paidospeixes.wav</String>
+        </pref>
+        <pref key="TextParamName">
+            <String>TEXT</String>
+        </pref>
+    </prefGroup>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="InterlinearizationEditor.FontSize">
+        <Int>12</Int>
+    </pref>
+    <prefGroup key="TranscriptionTable.TierMap">
+        <prefList key="JBMassa-des">
+            <String>JBMassa-des</String>
+            <String>Traducao</String>
+        </prefList>
+    </prefGroup>
+    <pref key="TimeScaleBeginTime">
+        <Long>200038</Long>
+    </pref>
+    <pref key="MediaTime">
+        <Long>204104</Long>
+    </pref>
+    <prefGroup key="TierColors">
+        <pref key="JBMassa-des">
+            <Object class="java.awt.Color">0,160,0</Object>
+        </pref>
+    </prefGroup>
+    <prefList key="MultiTierViewer.TierOrder">
+        <String>JBMassa-des</String>
+        <String>Morfemas</String>
+        <String>Morf Glossa</String>
+        <String>Traducao</String>
+    </prefList>
+    <pref key="TranscriptionTable.LastActiveColumn">
+        <String>Text</String>
+    </pref>
+    <pref key="LayoutManager.SplitPaneDividerLocation">
+        <Int>70</Int>
+    </pref>
+    <pref key="InterlinearizationMode.LeftRightSplit">
+        <Double>0.23854660347551343</Double>
+    </pref>
+    <prefList key="CommentViewer.Columns.Hidden">
+        <String>Sender</String>
+        <String>Recipient</String>
+    </prefList>
+    <prefGroup key="InterlinearizationConfigurations.ExcludedTierConfigurations"/>
+    <prefList key="TranscriptionTable.HiddenTiers"/>
+</preferences>
