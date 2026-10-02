@@ -1,6 +1,41 @@
 # Fieldnotes · Corpus Studio
 
-A local interface for exploring the EAF corpus and building a contextual lexicon.
+Explore linguistic annotations, search a corpus, and build a contextual lexicon using a Jupyter notebook or the local Fieldnotes app.
+
+## Notebook on GitHub Pages
+
+The site's homepage is generated from [`test.ipynb`](test.ipynb).
+
+**Site URL (after deployment):** http://www.sparktacus.io/documenting_linguistics/
+
+The [Pages workflow](.github/workflows/pages.yml) converts the notebook to HTML with nbconvert and publishes it whenever the notebook or site build files change on `main`. It also supports manual runs from the Actions tab. The notebook is the source of truth; do not edit generated HTML.
+
+### Activate publishing once
+
+1. Commit and push the new workflow, build script, and requirements to `main`.
+2. In the repository, open **Settings → Pages → Build and deployment → Source**, and select **GitHub Actions**.
+3. Open **Actions → Publish notebook to GitHub Pages → Run workflow** if the initial push has not already deployed successfully.
+4. The successful deployment provides the live Pages URL.
+
+This uses GitHub's [custom Pages workflow](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+
+### Update the page
+
+Edit `test.ipynb`, save it, and push it to `main`. Run and save its cells locally first if you want tables and results to appear on the page. The build renders saved Markdown, code, and outputs **without executing cells**—some cells modify the lexicon or access local files. The initial notebook version has no saved outputs.
+
+GitHub Pages is a static notebook view, with a download link. It does not run a Python kernel, the Fieldnotes server, native folder selection, or cloud mounts. Use the local app for those features.
+
+### Preview the notebook site locally
+
+```sh
+venv/bin/python -m pip install -r requirements-pages.txt
+venv/bin/python scripts/build_notebook_site.py
+venv/bin/python -m http.server 8000 --directory _site
+```
+
+Open http://localhost:8000. Only the generated notebook page and downloadable notebook are published; local volume and lexicon configuration files are not copied into the site. Anything saved inside the notebook, including outputs, is part of the published page.
+
+## Run the local app
 
 Run from this folder:
 
